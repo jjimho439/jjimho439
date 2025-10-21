@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjimho439&label=Profile%20views&color=0e75b6&style=flat" alt="jjimho439" /> </p>
 
 - 🌱 Siempre busco aprender **nuevas tecnologías**
-- - 🔭 Actualmente estoy trabajando en **[MAMPAFUTURE](https://mampafuture.es/)** 
+- 🔭 Actualmente estoy trabajando en **[MAMPAFUTURE](https://mampafuture.es/)** en el desarrollo y mantenimiento de la web.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
