@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Juan Antonio Jiménez Hornillo</h1>
-<h3 align="center">Un Desarrollador Web y Técnico en Sistemas de España</h3>
+<h3 align="center">Desarrollador Web y Técnico en Sistemas de España</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjimho439&label=Profile%20views&color=0e75b6&style=flat" alt="jjimho439" /> </p>
 
