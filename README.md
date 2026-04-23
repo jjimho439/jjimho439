@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jjimho439&label=Profile%20views&color=0e75b6&style=flat" alt="jjimho439" /> </p>
 
 - 🌱 Siempre busco aprender **nuevas tecnologías**
-- 🔭 Actualmente estoy trabajando en **[ONEWEEK](https://oneweek.es/)** como desarrollador de Aplicaciones Web y mantenimiento de proyectos.
+- 🔭 Actualmente estoy trabajando en **[MODDINGSEV](https://moddingsev.es/)** como desarrollador de Aplicaciones Web y mantenimiento de proyectos.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
